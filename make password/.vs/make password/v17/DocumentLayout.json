@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\project\\c#\\console\\make password\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A28EDF8-17AF-4352-921B-735F2FBDDD92}|make password.csproj|e:\\project\\c#\\console\\make password\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A28EDF8-17AF-4352-921B-735F2FBDDD92}|make password.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A28EDF8-17AF-4352-921B-735F2FBDDD92}|make password.csproj|e:\\project\\c#\\console\\make password\\passwordgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A28EDF8-17AF-4352-921B-735F2FBDDD92}|make password.csproj|solutionrelative:passwordgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordGenerator.cs",
+              "DocumentMoniker": "E:\\project\\c#\\console\\make password\\PasswordGenerator.cs",
+              "RelativeDocumentMoniker": "PasswordGenerator.cs",
+              "ToolTip": "E:\\project\\c#\\console\\make password\\PasswordGenerator.cs",
+              "RelativeToolTip": "PasswordGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:41:36.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\project\\c#\\console\\make password\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\project\\c#\\console\\make password\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:38:35.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
